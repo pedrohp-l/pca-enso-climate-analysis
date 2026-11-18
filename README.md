@@ -22,4 +22,5 @@ Para lidar com o alto custo computacional de matrizes climáticas gigantes (dado
 ## ⚙️ Como Executar
 1. Clone o repositório.
 2. Instale as dependências:
-   ```bash
+  ```bash
+   pip install numpy xarray matplotlib cartopy numba
